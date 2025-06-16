@@ -23,9 +23,8 @@ const Hero = () => {
               Вызвать мастера
             </Button>
             <Button
-              variant="outline"
               size="lg"
-              className="border-white text-white hover:bg-white hover:text-blue-800 px-8 py-4 text-lg"
+              className="bg-orange-500 hover:bg-orange-600 text-white px-8 py-4 text-lg"
             >
               <Icon name="MessageCircle" className="mr-2" />
               Написать в WhatsApp
