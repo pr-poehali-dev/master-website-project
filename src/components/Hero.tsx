@@ -4,8 +4,8 @@ import Icon from "@/components/ui/icon";
 
 const Hero = () => {
   return (
-    <section className="bg-gradient-to-br from-blue-600 to-blue-800 text-white py-16 px-4">
-      <div className="max-w-6xl mx-auto">
+    <section className="from-blue-600 to-blue-800 text-white py-16 px-4 bg-blue-500">
+      <div className="max-w-6xl mx-auto bg-blue-700">
         <div className="text-center mb-12">
           <h1 className="text-4xl md:text-6xl font-bold mb-6">
             Мастер на все руки
